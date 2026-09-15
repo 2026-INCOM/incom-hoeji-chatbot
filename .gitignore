@@ -1,0 +1,13 @@
+# 깃허브 레포에는 노트북·데이터·슬라이드 PDF만 올린다
+tools/
+slides/node_modules/
+slides/package*.json
+slides/build_slides.js
+slides/*.jpg
+slides/*.pptx
+data/hoeji_excerpt_raw.txt
+2026-09-23_기획안.md
+.DS_Store
+outputs/
+lora_full/
+~$*
